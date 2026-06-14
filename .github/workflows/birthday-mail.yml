@@ -1,6 +1,6 @@
 name: Happy birthday
 
-on:
+"on":
   schedule:
     - cron: "30 18 * * *"
 
