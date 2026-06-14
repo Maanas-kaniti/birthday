@@ -212,7 +212,7 @@ $("document").ready(function () {
             .fadeIn("slow")
             .delay(1000);
           if (i == 73) {
-            $("p:nth-child(49)")
+            $("p:nth-child(73)")
               .fadeOut("slow")
               .promise()
               .done(function () {
